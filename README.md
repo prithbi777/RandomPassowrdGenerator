@@ -7,6 +7,9 @@
 
 The **Random Password Generator** is a web application that allows users to generate secure, random passwords based on selected criteria. This tool helps enhance online security by creating strong passwords that are difficult to guess or crack.
 
+## Live Demo: https://prithbi777.github.io/RandomPassowrdGenerator/
+
+
 ## ⚙️ How It Works
 
 1. **User Input:** Select desired password criteria:
